@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+#stu{
+	font-family:'Abril Fatface', cursive;
+	border-collapse: collapse;
+	width:100%;
+}
+
+#stu tr:nth-child(even){background-color:blue }
+#stu th{
+	padding-top: 12px;
+	padding-bottom:12px;
+	text-align: left;
+	background-color: white;
+	color:red; 
+}
+ th
+ {
+ background-color:#910091;
+ font-family: serif;
+ font-size:18px;
+ color: #ffffff;
+ }
+ 
+ #A{
+ font-family: serif;
+ font-size:18px;
+ color:  #3336ae;
+ padding: 15px;
+ }
